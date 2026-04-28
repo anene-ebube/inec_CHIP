@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-this is a voting system
+this is a simple majority system for 3 inputs. when there are more than one high inputs, the output gives a high. 
 
 ## How to test
 
-use an led to test the voting
+use an led to test the output. you can use 3 switches for input.
 
 ## External hardware
 
-LED, PushButton
+LED, PushButton, switches
